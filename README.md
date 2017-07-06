@@ -16,7 +16,7 @@ python detect.py --image ./test.png --apikey ****** --serectkey *******
 ```
 TIPS: the apikey and serect key which can get from ai.baidu.com , you should apply "general ocr" service for this project
 
-# result
+# Result
 ![origin input](https://ws4.sinaimg.cn/large/006tNc79gy1fha243nradj31kw0w8b2a.jpg)
 
 
