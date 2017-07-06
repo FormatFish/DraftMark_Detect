@@ -14,7 +14,7 @@ git clone https://github.com/FormatFish/DraftMark_Detect.git
 cd DraftMark_Detect
 python detect.py --image ./test.png --apikey ****** --serectkey *******
 ```
-TIPS: the apikey and serect key which can get from ai.baidu.com , you should apply "general ocr" service for this project
+TIPS: the apikey and serect key which can get from [ai.baidu.com](http://ai.baidu.com) , you should apply "general ocr" service for this project
 
 # Result
 ![origin input](https://ws4.sinaimg.cn/large/006tNc79gy1fha243nradj31kw0w8b2a.jpg)
